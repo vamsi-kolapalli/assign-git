@@ -1,0 +1,13 @@
+1)What is a gitignore file and what should it include for a Java project? 
+Ans: When committing a project to github, the gitignore file is used to assist git ignore a certain file. The.class,.zar, and.var file types should be included in the Java project.
+
+2)What does fast-forward in git mean? 
+Ans:Fast-forward merges forward the beginning of your main branch to the conclusion of your feature branch. This maintains the chronological order of all contributions made there while seamlessly integrating your feature branch back into your main branch.
+
+3)Why should you have different branches? 
+Ans: In general, branches are made to lessen the amount of modification requests to the main branch. Prior to updating the main branch, we first make changes to the child branches.
+
+4)In a project how many remote Git repositories do you usually have? 
+Ans: There will be only one remote git repository for a project
+
+
